@@ -1,0 +1,13 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.gen/sources_1/ip/xadc_wiz_0/xadc_wiz_0.v,1723664411,verilog,,,,xadc_wiz_0,,uvm,,,,,,
+C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.srcs/sources_1/imports/Filters/maximum_bass_filter.v,1723660281,systemVerilog,,C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.srcs/sources_1/imports/Filters/maximum_treble_filter.v,,maximum_bass_filter,,uvm,,,,,,
+C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.srcs/sources_1/imports/Filters/maximum_treble_filter.v,1723646435,systemVerilog,,C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.srcs/sources_1/imports/Filters/minimum_bass_filter.v,,maximum_treble_filter,,uvm,,,,,,
+C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.srcs/sources_1/imports/Filters/minimum_bass_filter.v,1723646184,systemVerilog,,C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.srcs/sources_1/imports/Filters/minimum_treble_filter.v,,minimum_bass_filter,,uvm,,,,,,
+C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.srcs/sources_1/imports/Filters/minimum_treble_filter.v,1723646335,systemVerilog,,C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.srcs/sources_1/new/unmodulated_bass_filter.sv,,minimum_treble_filter,,uvm,,,,,,
+C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.srcs/sources_1/new/audiocontrol.v,1723681991,systemVerilog,,,,audiocontrol,,uvm,,,,,,
+C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.srcs/sources_1/new/unmodulated_bass_filter.sv,1723649477,systemVerilog,,C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.srcs/sources_1/new/unmodulated_treble_filter.v,,unmodulated_bass_filter,,uvm,,,,,,
+C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.srcs/sources_1/new/unmodulated_treble_filter.v,1723649435,systemVerilog,,C:/Users/onyek/baxandall_tonecontroller/baxandall_tonecontroller.srcs/sources_1/new/audiocontrol.v,,unmodulated_treble_filter,,uvm,,,,,,
